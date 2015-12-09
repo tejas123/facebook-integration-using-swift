@@ -25,14 +25,14 @@
 		<dict>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>fb1628029504115413</string>
+				<string>fb + "YOUR Facebook APP ID"</string>
 			</array>
 		</dict>
 	</array>
 	<key>FacebookAppID</key>
-	<string>1628029504115413</string>
+	<string>"YOUR Facebook APP ID"</string>
 	<key>FacebookDisplayName</key>
-	<string>Integration using Swift</string>
+	<string>"YOUR FB DISPLAY NAME"</string>
 	<key>LSApplicationQueriesSchemes</key>
 	<array>
 		<string>fbapi</string>
